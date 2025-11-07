@@ -21,7 +21,7 @@
 
 // let book = 315
 // let pen = 20
-// let sum = book + pen
+// let sum = Book + Pen
 // console.log(sum);
 
 var maynas = 20 - 30
