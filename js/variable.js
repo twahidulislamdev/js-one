@@ -27,7 +27,7 @@
 var maynas = 20 - 30
 console.log(maynas)
 
-var intu = 20 * 30
+var intu = 20 * 50
 
 console.log(intu)
 
@@ -45,14 +45,14 @@ console.log(dive)
 }
 // Public Scope 
 {
-    var y = 300
+    var y = 350
 }
 console.log(y);
 
 let z = "Twahhidul"
 console.log(typeof(z));
 
-let a = 55
+let a = 100
 console.log(typeof(a));
 
 let b = true
