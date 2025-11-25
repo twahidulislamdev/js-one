@@ -21,39 +21,39 @@
 
 // let book = 315
 // let pen = 20
-// let sum = book + pen
+// let sum = Book + Pen
 // console.log(sum);
 
 // var maynas = 20 - 30
 // console.log(maynas)
 
-// var intu = 20 * 30
+var intu = 20 * 30
 
 // console.log(intu)
 
 // var dive = 20 / 4
 // console.log(dive)
 
-// // Primary Scope 
-// {
-//   let x = 500;
-//   console.log(x);
-// }
-// {
-//   const x = 800;
-//   console.log(x);
-// }
-// // Public Scope 
-// {
-//     var y = 300
-// }
-// console.log(y);
+// Primary Scope 
+{
+  let x = 500;
+  console.log(x);
+}
+{
+  const x = 800;
+  console.log(x);
+}
+// Public Scope 
+{
+    var y = 300
+}
+console.log(y);
 
 // let z = "Twahhidul"
 // console.log(typeof(z));
 
-// let a = 55
-// console.log(typeof(a));
+let a = 55
+console.log(typeof(a));
 
 // let b = true
 // console.log(typeof(b));
