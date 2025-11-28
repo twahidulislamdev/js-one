@@ -27,37 +27,36 @@
 // var maynas = 20 - 30
 // console.log(maynas)
 
-var intu = 20 * 30
+var intu = 20 * 30;
 
 // console.log(intu)
 
 // var dive = 20 / 4
 // console.log(dive)
 
-// Primary Scope 
+// Primary Scope
 {
-  let x = 500;
+  let x = 1000;
   console.log(x);
 }
 {
-  const x = 800;
+  const x = 1500;
   console.log(x);
 }
-// Public Scope 
+// Public Scope
 {
-    var y = 300
+  var y = 200;
 }
 console.log(y);
 
 // let z = "Twahhidul"
 // console.log(typeof(z));
 
-let a = 55
-console.log(typeof(a));
+let a = 55;
+console.log(typeof a);
 
 // let b = true
 // console.log(typeof(b));
-
 
 // let text1 = "Hello";
 // let text2 = "World"
@@ -65,14 +64,11 @@ console.log(typeof(a));
 // console.log(text3);
 
 const phone = {
-    brand : 'Samsung',
-    color : 'Blue',
-    Price : 50000,
+  brand: "Samsung",
+  color: "Blue",
+  Price: 50000,
+};
+for (item in phone) {
+  console.log(item);
+  console.log(phone[item]);
 }
-for(item in phone){
-    console.log(item);
-    console.log(phone[item]);
-    
-    
-}
-
