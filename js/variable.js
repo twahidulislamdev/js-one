@@ -65,7 +65,7 @@ console.log(typeof a);
 
 const phone = {
   brand: "Samsung",
-  color: "Blue",
+  color: "White",
   Price: 50000,
 };
 for (item in phone) {
