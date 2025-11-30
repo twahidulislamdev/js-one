@@ -16,7 +16,7 @@
 // console.log(pai);
 
 // let cap = 100
-// let shirt = 1500
+// let shirt = 20000
 // console.log(cap+shirt);
 
 // let book = 315
