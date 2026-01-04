@@ -8,3 +8,7 @@ console.log(product);
 
 const pai = 3.1416;
 console.log(pai);
+
+let cap = 100;
+let shirt = 20000;
+console.log(cap + shirt);
