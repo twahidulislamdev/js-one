@@ -14,7 +14,9 @@ let cap = 100;
 let shirt = 20000;
 console.log(cap + shirt);
 
+
+
 let book = 355;
 let pen = 20;
-let sum = Book + Pen;
+let sum = book + pen;
 console.log(sum);
