@@ -4,6 +4,7 @@ console.log(name);
 
 let product = "Mango";
 product = "Banana";
+product = "chango";
 console.log(product);
 
 const pai = 3.1416;
